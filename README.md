@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently improving my Data Science skills and looking foward to
+ I’m currently improving my Data Science skills and looking foward to
 any kind of collaboration on Data projects/ideas.
   
  >📫 Reach out to me 
